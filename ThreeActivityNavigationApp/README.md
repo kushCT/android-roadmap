@@ -51,4 +51,4 @@
 - The app will launch, and clicking the "Next Activity" buttons will navigate through the activities.
 
 ## Demo video
-- [Demo Video](../Demo/ThreeActivityNavigationAppDemo.gif) for a live demonstration of the project.
+- [Demo Video](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) for a live demonstration of the project.
