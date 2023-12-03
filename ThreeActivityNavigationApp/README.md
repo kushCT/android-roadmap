@@ -49,3 +49,6 @@
 - Open the project in Android Studio.
 - Build and run the project.
 - The app will launch, and clicking the "Next Activity" buttons will navigate through the activities.
+
+## Demo video
+- [Demo Video](../Demo/ThreeActivityNavigationAppDemo.gif) for a live demonstration of the project.
