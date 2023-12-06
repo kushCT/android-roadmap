@@ -1,5 +1,5 @@
 This is android roadmap repo
-##Steps:
+# Steps:
 - App with 3 activities which have one button to go to next one.
 - Same thing with 3 fragments in one activity
 - Check logs for imp lifecycle methods. Understand what is main thread, understand app crash and ANR meaning and try to cause them intentionally.
